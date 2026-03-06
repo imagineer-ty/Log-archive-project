@@ -17,3 +17,5 @@ This tool archives logs from a specified directory by compressing them into a `.
 
 ```bash
 python log_archive.py <log-directory>
+
+https://roadmap.sh/projects/log-archive-tool
